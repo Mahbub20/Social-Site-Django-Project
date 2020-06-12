@@ -5,4 +5,6 @@ There also the feature of join and leave the group.User can join a particular gr
 
 # Run the project
 1.cd project folder
+
+
 2.python manage.py runserver
