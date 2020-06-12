@@ -4,7 +4,7 @@ Then registered user can login and create their own group. Post to that particul
 There also the feature of join and leave the group.User can join a particular group and also leave the group.
 
 # Run the project
-1.cd project folder
+1. cd project folder
 
 
-2.python manage.py runserver
+2. python manage.py runserver
